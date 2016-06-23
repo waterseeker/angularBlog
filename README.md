@@ -11,6 +11,11 @@ This will install the various node modules that the server requires. These can b
 node_modules
 ```
 
+Finally, **to start the server**, run:
+```
+npm start
+```
+
 ## API
 The API for this lab is being provided for you. It is available at http://localhost:3000/api. To start it up, make sure your terminal is opened to the root of your project folder. Then run `nodemon`. This server follows standard REST guidelines. Specifically, you have access to the following endpoints:
 
